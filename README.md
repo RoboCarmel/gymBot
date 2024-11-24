@@ -1,1 +1,2 @@
 "# gymBot" 
+connect to fizikal app through your pc. then open the fizikal app on the day you want to reserve yourself the spot. With cursor_finder find the next 4 locations: the bluestack app in the computer bar on the lower part of the screen, the second one is the hour you want to take, please put the coordinates not in the middle of the button but a little to the side for the bot to identify its color. the third and fourth coordinates are the register button and exit button after you click the hour you want.
